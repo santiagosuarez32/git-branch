@@ -9,3 +9,5 @@ git pull: descarga contenido desde un repositorio online a un repositorio local
 
 git branch: crea una branch o rama
 git merge: permite tomar las lineas independientes de desarrollo creadas por git branch e integrarlas en una sola rama
+
+Branches, merges, vercel
